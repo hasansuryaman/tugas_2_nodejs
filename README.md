@@ -3,7 +3,11 @@
 NodeJS, ExpressJS, Mongoose, Membuat CRUD API (POST).
 
 POST :
-![post](screen/post.png)
+<br>
+<p align="center"><img src="screen/post.png" alt="OSI Model" width="700"/></div></p>
+
+<br>
 
 GET :
-![get](screen/get.png)
+<br>
+<p align="center"><img src="screen/get.png" alt="OSI Model" width="700"/></div></p>
